@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "css"
+		},
+		{
+			"path": "doc"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "video"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "doc"
+	}
+}
